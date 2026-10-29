@@ -24,7 +24,6 @@ Then you must exit the shell and start a new one for the Python virtual environm
 exit
 ```
 
-## Tasks
 
 
 ## License
